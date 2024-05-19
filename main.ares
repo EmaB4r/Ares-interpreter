@@ -1,0 +1,4 @@
+var hello=1+2-2*4;
+println(hello);
+hello = "Palle";
+println("Cereali Kellogs ", hello);
